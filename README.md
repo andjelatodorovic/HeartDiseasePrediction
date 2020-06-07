@@ -1,5 +1,5 @@
 # Heart Disease Prediction
-My solution to DrivenData competition Machine Learning with a Heart. Beaten the benchmark and currently rated 150/2190.
+My solution to DrivenData competition Machine Learning with a Heart. Beaten the benchmark and currently rated 90/2190.
 
 Preventing heart disease is important. Good data-driven systems for predicting heart disease can improve the entire research and prevention process, making sure that more people can live healthy lives.
 
